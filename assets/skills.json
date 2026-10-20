@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated values 0-100. 5-8 axes reads best.",
+  "axes": [
+    { "label": "Full Stack & Next.js", "value": 88 },
+    { "label": "TypeScript & JS",      "value": 86 },
+    { "label": "Backend & APIs",       "value": 85 },
+    { "label": "Python & AI/ML",       "value": 80 },
+    { "label": "UI/UX & GSAP",         "value": 84 },
+    { "label": "Databases",            "value": 78 },
+    { "label": "Cybersecurity",        "value": 75 }
+  ]
+}

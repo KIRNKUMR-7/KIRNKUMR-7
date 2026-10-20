@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run.",
+  "projects": [
+    {
+      "repo": "AR-CODE",
+      "description": "Interactive Augmented Reality web experience for marker-based 3D visualization and code interaction."
+    },
+    {
+      "repo": "3d-student-academic-results-portal",
+      "description": "An immersive 3D academic portal rendering student performance metrics and analytics in interactive 3D space."
+    },
+    {
+      "repo": "AI-GPS",
+      "description": "Intelligent AI-assisted navigation and positioning system combining telemetry data with real-time route optimization."
+    },
+    {
+      "repo": "educourse",
+      "description": "A modern web educational learning platform with streamlined course catalogs and student workflow dashboards."
+    }
+  ]
+}
